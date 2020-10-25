@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>nycmage.github.io/website/blog/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/project/airdrone/</loc>
+    <loc>/project/airdrone/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/docs/</loc>
+    <loc>/docs/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/docs/start/</loc>
+    <loc>/docs/start/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/blog/first/</loc>
+    <loc>/blog/first/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/team/electrical/</loc>
+    <loc>/team/electrical/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/team/mechanical/</loc>
+    <loc>/team/mechanical/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/team/propulsion/</loc>
+    <loc>/team/propulsion/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/docs/purpose/</loc>
+    <loc>/docs/purpose/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/project/mars/</loc>
+    <loc>/project/mars/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/project/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/docs/videos/</loc>
+    <loc>/docs/videos/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/team/</loc>
+    <loc>/team/</loc>
   </url>
   
   <url>
-    <loc>nycmage.github.io/website/project/subdrone/</loc>
+    <loc>/project/subdrone/</loc>
   </url>
   
 </urlset>
