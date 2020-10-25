@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MAGE</title>
-    <link>https://nycmage.github.io/website/</link>
+    <link>nycmage.github.io/website/</link>
     <description>Recent content on MAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nycmage.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="nycmage.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DIY Drone</title>
-      <link>https://nycmage.github.io/website/project/airdrone/</link>
+      <link>nycmage.github.io/website/project/airdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/project/airdrone/</guid>
+      <guid>nycmage.github.io/website/project/airdrone/</guid>
       <description>My super sweet Drone overview</description>
     </item>
     
     <item>
       <title>Get Started</title>
-      <link>https://nycmage.github.io/website/docs/start/</link>
+      <link>nycmage.github.io/website/docs/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/docs/start/</guid>
+      <guid>nycmage.github.io/website/docs/start/</guid>
       <description>Swear the oath!</description>
     </item>
     
     <item>
       <title>Latest News</title>
-      <link>https://nycmage.github.io/website/blog/first/</link>
+      <link>nycmage.github.io/website/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/blog/first/</guid>
+      <guid>nycmage.github.io/website/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
       <title>Meet the Electrical Team</title>
-      <link>https://nycmage.github.io/website/team/electrical/</link>
+      <link>nycmage.github.io/website/team/electrical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/team/electrical/</guid>
+      <guid>nycmage.github.io/website/team/electrical/</guid>
       <description>My super sweet electrical team</description>
     </item>
     
     <item>
       <title>Meet the Mechanical Team</title>
-      <link>https://nycmage.github.io/website/team/mechanical/</link>
+      <link>nycmage.github.io/website/team/mechanical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/team/mechanical/</guid>
+      <guid>nycmage.github.io/website/team/mechanical/</guid>
       <description>My super sweet mechanical team</description>
     </item>
     
     <item>
       <title>Meet the Propulsion Team</title>
-      <link>https://nycmage.github.io/website/team/propulsion/</link>
+      <link>nycmage.github.io/website/team/propulsion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/team/propulsion/</guid>
+      <guid>nycmage.github.io/website/team/propulsion/</guid>
       <description>My super sweet propulsion team</description>
     </item>
     
     <item>
       <title>Our Mission</title>
-      <link>https://nycmage.github.io/website/docs/purpose/</link>
+      <link>nycmage.github.io/website/docs/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/docs/purpose/</guid>
+      <guid>nycmage.github.io/website/docs/purpose/</guid>
       <description>Test mission objectives here</description>
     </item>
     
     <item>
       <title>Project MARS</title>
-      <link>https://nycmage.github.io/website/project/mars/</link>
+      <link>nycmage.github.io/website/project/mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/project/mars/</guid>
+      <guid>nycmage.github.io/website/project/mars/</guid>
       <description>PROJECT MARS DECLASSIFIED</description>
     </item>
     
     <item>
       <title>Recorded Interest Meeting</title>
-      <link>https://nycmage.github.io/website/docs/videos/</link>
+      <link>nycmage.github.io/website/docs/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/docs/videos/</guid>
+      <guid>nycmage.github.io/website/docs/videos/</guid>
       <description>My super sweet r e c o r d e d i n t e r e s t m e e t i n g</description>
     </item>
     
     <item>
       <title>Underwater Drone</title>
-      <link>https://nycmage.github.io/website/project/subdrone/</link>
+      <link>nycmage.github.io/website/project/subdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nycmage.github.io/website/project/subdrone/</guid>
+      <guid>nycmage.github.io/website/project/subdrone/</guid>
       <description>My super sweet underwater drone</description>
     </item>
     
