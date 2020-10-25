@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on MAGE</title>
-    <link>/blog/</link>
+    <link>https://nycmage.github.io/website/blog/</link>
     <description>Recent content in Blogs on MAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nycmage.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Latest News</title>
-      <link>/blog/first/</link>
+      <link>https://nycmage.github.io/website/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/first/</guid>
+      <guid>https://nycmage.github.io/website/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
