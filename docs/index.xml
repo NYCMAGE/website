@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on MAGE</title>
-    <link>nycmage.github.io/docs/</link>
+    <link>nycmage.github.io/website/docs/</link>
     <description>Recent content in Docs on MAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="nycmage.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="nycmage.github.io/website/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Started</title>
-      <link>nycmage.github.io/docs/start/</link>
+      <link>nycmage.github.io/website/docs/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nycmage.github.io/docs/start/</guid>
+      <guid>nycmage.github.io/website/docs/start/</guid>
       <description>Swear the oath!</description>
     </item>
     
     <item>
       <title>Our Mission</title>
-      <link>nycmage.github.io/docs/purpose/</link>
+      <link>nycmage.github.io/website/docs/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nycmage.github.io/docs/purpose/</guid>
+      <guid>nycmage.github.io/website/docs/purpose/</guid>
       <description>Test mission objectives here</description>
     </item>
     
     <item>
       <title>Recorded Interest Meeting</title>
-      <link>nycmage.github.io/docs/videos/</link>
+      <link>nycmage.github.io/website/docs/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nycmage.github.io/docs/videos/</guid>
+      <guid>nycmage.github.io/website/docs/videos/</guid>
       <description>My super sweet r e c o r d e d i n t e r e s t m e e t i n g</description>
     </item>
     
