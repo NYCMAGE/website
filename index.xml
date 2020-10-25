@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAGE</title>
+    <link>nycmage.github.io/</link>
+    <description>Recent content on MAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="nycmage.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY Drone</title>
+      <link>nycmage.github.io/project/airdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/project/airdrone/</guid>
+      <description>My super sweet Drone overview</description>
+    </item>
+    
+    <item>
+      <title>Get Started</title>
+      <link>nycmage.github.io/docs/start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/docs/start/</guid>
+      <description>Swear the oath!</description>
+    </item>
+    
+    <item>
+      <title>Latest News</title>
+      <link>nycmage.github.io/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/blog/first/</guid>
+      <description>My super sweet first blog post!!</description>
+    </item>
+    
+    <item>
+      <title>Meet the Electrical Team</title>
+      <link>nycmage.github.io/team/electrical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/electrical/</guid>
+      <description>My super sweet electrical team</description>
+    </item>
+    
+    <item>
+      <title>Meet the Mechanical Team</title>
+      <link>nycmage.github.io/team/mechanical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/mechanical/</guid>
+      <description>My super sweet mechanical team</description>
+    </item>
+    
+    <item>
+      <title>Meet the Propulsion Team</title>
+      <link>nycmage.github.io/team/propulsion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/propulsion/</guid>
+      <description>My super sweet propulsion team</description>
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>nycmage.github.io/docs/purpose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/docs/purpose/</guid>
+      <description>Test mission objectives here</description>
+    </item>
+    
+    <item>
+      <title>Project MARS</title>
+      <link>nycmage.github.io/project/mars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/project/mars/</guid>
+      <description>PROJECT MARS DECLASSIFIED</description>
+    </item>
+    
+    <item>
+      <title>Recorded Interest Meeting</title>
+      <link>nycmage.github.io/docs/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/docs/videos/</guid>
+      <description>My super sweet r e c o r d e d i n t e r e s t m e e t i n g</description>
+    </item>
+    
+    <item>
+      <title>Underwater Drone</title>
+      <link>nycmage.github.io/project/subdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/project/subdrone/</guid>
+      <description>My super sweet underwater drone</description>
+    </item>
+    
+  </channel>
+</rss>

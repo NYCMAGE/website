@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on MAGE</title>
+    <link>nycmage.github.io/team/</link>
+    <description>Recent content in Teams on MAGE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="nycmage.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet the Electrical Team</title>
+      <link>nycmage.github.io/team/electrical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/electrical/</guid>
+      <description>My super sweet electrical team</description>
+    </item>
+    
+    <item>
+      <title>Meet the Mechanical Team</title>
+      <link>nycmage.github.io/team/mechanical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/mechanical/</guid>
+      <description>My super sweet mechanical team</description>
+    </item>
+    
+    <item>
+      <title>Meet the Propulsion Team</title>
+      <link>nycmage.github.io/team/propulsion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>nycmage.github.io/team/propulsion/</guid>
+      <description>My super sweet propulsion team</description>
+    </item>
+    
+  </channel>
+</rss>
