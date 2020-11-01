@@ -2,97 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MAGE</title>
-    <link>website/</link>
+    <link>/</link>
     <description>Recent content on MAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DIY Drone</title>
-      <link>website/project/airdrone/</link>
+      <title>About</title>
+      <link>/docs/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/project/airdrone/</guid>
+      <guid>/docs/purpose/</guid>
+      <description>Who are we? The Midwood Aerospace Group for Engineers (MAGE) is a club at Midwood High School that focuses on aerospace and engineering. MAGE is a club for those who are interested in science, technology, engineering and math (STEM). Members in MAGE will primarily learn engineering principles and applications in the &amp;lsquo;real world&amp;rsquo;. They will also learn about aeronautics and participate in a fully functional model rocket projects.
+What is our goal?</description>
+    </item>
+    
+    <item>
+      <title>DIY Drone</title>
+      <link>/project/airdrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/airdrone/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Get Started</title>
-      <link>website/docs/start/</link>
+      <link>/docs/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/docs/start/</guid>
-      <description>Swear the oath&amp;hellip; WIP</description>
+      <guid>/docs/start/</guid>
+      <description>Basic - SaaS Landing Page Kickstart Your SaaS or App Site Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+Get Started            So you want to join MAGE? Do you feel in charge? Well, here&#39;s what you need    Curiosity Curiosity does not kill the cat, rather it kills you for knowledge and interest.</description>
     </item>
     
     <item>
       <title>Latest News</title>
-      <link>website/blog/first/</link>
+      <link>/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/blog/first/</guid>
+      <guid>/blog/first/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Meet the Electrical Team</title>
-      <link>website/team/electrical/</link>
+      <link>/team/electrical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/electrical/</guid>
+      <guid>/team/electrical/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Meet the Mechanical Team</title>
-      <link>website/team/mechanical/</link>
+      <link>/team/mechanical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/mechanical/</guid>
+      <guid>/team/mechanical/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Meet the Propulsion Team</title>
-      <link>website/team/propulsion/</link>
+      <link>/team/propulsion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/propulsion/</guid>
-      <description>WIP</description>
-    </item>
-    
-    <item>
-      <title>Our Mission</title>
-      <link>website/docs/purpose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>website/docs/purpose/</guid>
+      <guid>/team/propulsion/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Project MARS</title>
-      <link>website/project/mars/</link>
+      <link>/project/mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/project/mars/</guid>
+      <guid>/project/mars/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Recorded Interest Meeting</title>
-      <link>website/docs/videos/</link>
+      <link>/docs/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/docs/videos/</guid>
+      <guid>/docs/videos/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Underwater Drone</title>
-      <link>website/project/subdrone/</link>
+      <link>/project/subdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/project/subdrone/</guid>
+      <guid>/project/subdrone/</guid>
       <description>WIP</description>
     </item>
     

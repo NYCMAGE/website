@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>website/blog/</loc>
+    <loc>/docs/purpose/</loc>
   </url>
   
   <url>
-    <loc>website/project/airdrone/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>website/docs/</loc>
+    <loc>/project/airdrone/</loc>
   </url>
   
   <url>
-    <loc>website/docs/start/</loc>
+    <loc>/docs/</loc>
   </url>
   
   <url>
-    <loc>website/blog/first/</loc>
+    <loc>/docs/start/</loc>
   </url>
   
   <url>
-    <loc>website/</loc>
+    <loc>/blog/first/</loc>
   </url>
   
   <url>
-    <loc>website/team/electrical/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>website/team/mechanical/</loc>
+    <loc>/team/electrical/</loc>
   </url>
   
   <url>
-    <loc>website/team/propulsion/</loc>
+    <loc>/team/mechanical/</loc>
   </url>
   
   <url>
-    <loc>website/docs/purpose/</loc>
+    <loc>/team/propulsion/</loc>
   </url>
   
   <url>
-    <loc>website/project/mars/</loc>
+    <loc>/project/mars/</loc>
   </url>
   
   <url>
-    <loc>website/project/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>website/docs/videos/</loc>
+    <loc>/docs/videos/</loc>
   </url>
   
   <url>
-    <loc>website/team/</loc>
+    <loc>/team/</loc>
   </url>
   
   <url>
-    <loc>website/project/subdrone/</loc>
+    <loc>/project/subdrone/</loc>
   </url>
   
 </urlset>

@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on MAGE</title>
-    <link>website/team/</link>
+    <link>/team/</link>
     <description>Recent content in Teams on MAGE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="website/team/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meet the Electrical Team</title>
-      <link>website/team/electrical/</link>
+      <link>/team/electrical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/electrical/</guid>
+      <guid>/team/electrical/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Meet the Mechanical Team</title>
-      <link>website/team/mechanical/</link>
+      <link>/team/mechanical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/mechanical/</guid>
+      <guid>/team/mechanical/</guid>
       <description>WIP</description>
     </item>
     
     <item>
       <title>Meet the Propulsion Team</title>
-      <link>website/team/propulsion/</link>
+      <link>/team/propulsion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>website/team/propulsion/</guid>
+      <guid>/team/propulsion/</guid>
       <description>WIP</description>
     </item>
     
