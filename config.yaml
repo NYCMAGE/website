@@ -1,0 +1,153 @@
+baseURL: "/"
+languageCode: en-us
+title: MAGE
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  custom_css: "style.css"
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description: The Midwood Aeropace Group for Engineers is a group in the STEM field that helps students learn about engineering.
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/magelogo.svg
+    link: "/"
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Learn. Build. Launch.
+    # Hero subtitle (optional)
+    subtitle: Accelerating students' minds in STEM since 2020.
+    # Button text
+    buttontext: Join today
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/stars.svg
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Home
+    url: "/"
+  - title: About
+    url: /docs/purpose
+  - title: Projects
+    sublinks:
+    - title: MARS
+      url: /project/mars
+    - title: Subnautical Drone
+      url: /project/subdrone
+    - title: Aeronautical Drone
+      url: /project/airdrone
+    button: true
+  - title: Contact Us
+    sublinks:
+    - title: via Instagram
+      url: https://instagram.com/midwoodaerospace
+    - title: via email
+      url: mailto:MAGEClub@midwoodhighschool.org
+  section1:
+    title: Great STEM comes
+    subtitle: with great teams
+    tiles:
+    - title: Mechanical Engineering
+      icon: firmware
+      text: Traditional, robust, and ageless. Work the gears and sweat WD-40.
+      url: /team/mechanical
+      buttonText: Learn more
+    - title: Electrical Engineering
+      icon: programming
+      text: Modern, tedious, and powerful. Work the wires and drink coffee every minute.
+      url: /team/electrical
+      buttonText: Learn more
+    - title: Chemical Engineering
+      icon: science
+      text: Conventional, fluid, and exciting. Work the chemicals and fuel the rockets.
+      url: /team/propulsion
+      buttonText: Learn more
+  section2:
+    title: You're here because you want the engineering experience
+    subtitle: And we know it
+    features:
+      # Icon (from /images/illustrations/icons/___.svg)
+    - title: Learn from curated lessons
+      text: Our collection of curated lessons for the beginner → advanced engineer are synced from each of our mentors' depths of knowledge. Learn from students across high schools taking the engineering classes you wish you were taking.
+      icon: doc-sync
+    - title: Connect with our experienced upperclassmen
+      text: Our experienced upperclassmen know a thing or two about opportunities, because we've seen a thing or two. Learn the wisdom of the streets.
+      icon: plug-cloud
+    - title: Help build our ambitious projects
+      text: Our projects range from small endeavors in engineering principles to large engineering projects, such as our model rocketry endeavors and our drone projects.
+      icon: laptop-cloud
+  section3:
+    title: Our oath
+    subtitle: In brightest day, in blackest night, no student shall escape my sight. Let those who seek engineering's might, beware the name MAGE, spoke forthright.
+    image: illustrations/mockups/relaunch.svg
+    buttonText: Swear the oath
+    buttonLink: /docs/start
+  section4:
+    title: Our members love us!
+    subtitle: Hear what our beloved members have to say about MAGE.
+    clients:
+    - name: Taylor
+      quote: "MAGE is pretty cool, it's a chill club. Sometimes, we work on a project like MARS or a small engineering competition, other days we take a break and play Minecraft and Among Us. Sorta like 'Work hard, play hard' in a sense."
+      job: Propulsion
+      img: 1
+    - name: Anthony
+      quote: "MAGE is very ambitious — and very unique because it's one of the first engineering clubs in Midwood, which lacks in opportunities  for us engineer enthusiasts. Especially for a civil engineer enthusiast like me, MAGE helps."
+      job: Electronics
+      img: 3
+    - name: Shaedil
+      quote: "When I saw MAGE, I was skeptical. MAGE is lot of work. But I knew the implications for MAGE were big. MAGE is unique in its venture to provide an education unlike others. Needless to say, this'll be 'one for the books'."
+      job: VP
+      img: 2
+  footer:
+    # Logo (from /images/logos/___)
+    logo: ../loaders/bars.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/NYCMAGE
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://instragram.com/midwoodaerospace
+      icon: instagram
+    - link: https://classroom.google.com/c/MTc0MDkwOTQwMDc3
+      icon: university
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Teams"
+        links:
+        - text: Mechanical
+          link: /team/mechanical
+        - text: Electrical
+          link: /team/electrical
+        - text: Propulsion
+          link: /team/propulsion
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /docs/start
+        - text: Why MAGE?
+          link: /docs/purpose
+        - text: Interest meetings
+          link: /docs/videos
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
